@@ -27,6 +27,12 @@ body {
   padding: 13px;
   padding-bottom: 20px;
   background-color: white;
+  cursor: pointer;
+}
+
+.contact-card:hover {
+  position: relative;
+  bottom: 10px;
 }
 
 .contact-card > img {
